@@ -13,6 +13,8 @@
         "**/*.uvproj": true,
         "**/*.SDF": true,
         "**/*.DSN": true,
-        "**/*.bat": true
+        "**/*.bat": true,
+		"**/output": true,
+		"**/.gitignore": true
     }
 }
