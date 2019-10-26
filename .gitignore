@@ -1,0 +1,13 @@
+/target/
+/output/
+.idea
+.settings
+logs
+*.iml
+.project
+.classpath
+/src/main/resources/sqlite3.db
+/config/
+
+
+git@github.com:minglie/window-key.git
